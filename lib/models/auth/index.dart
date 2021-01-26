@@ -1,0 +1,1 @@
+export 'authModel.dart';
